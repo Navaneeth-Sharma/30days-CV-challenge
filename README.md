@@ -1,6 +1,6 @@
-# 30 Day Machine Learning Challenge
+# 30 Day Computer Vision Challenge
 
-## Week 1 - Computer Vision
+## Week 1 - Basics
 
 ### Resources
 
@@ -8,11 +8,11 @@
 - PyImagesearch Website
 - GreatLearning Blogs
 
-## Week 2 - NLP
+## Week 2 - Project 1
 
 
-## Week 3 - Time Series
+## Week 3 - Advanced
 
 
-## Week 4 - Deployment
+## Week 4 - Project 2
 
